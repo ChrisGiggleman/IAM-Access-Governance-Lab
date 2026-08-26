@@ -1,0 +1,16 @@
+user_id,first_name,last_name,department,role,status,manager_id,account_type,hire_date
+U001,Emma,Johnson,Human Resources,HR Manager,Active,,Standard,2022-03-14
+U002,Sarah,Miller,Human Resources,HR Specialist,Active,U001,Standard,2024-06-10
+U003,Michael,Davis,Finance,Finance Manager,Active,,Standard,2021-11-08
+U004,Daniel,Moore,Finance,Financial Analyst,Active,U003,Standard,2025-01-20
+U005,Olivia,Wilson,Sales,Sales Manager,Active,,Standard,2023-04-17
+U006,James,Taylor,Sales,Sales Representative,Active,U005,Standard,2025-08-11
+U007,Sophia,Anderson,Operations,Operations Manager,Active,,Standard,2022-09-05
+U008,Ethan,Thomas,Operations,Operations Specialist,Active,U007,Standard,2024-02-12
+U009,Chris,Martinez,Information Technology,Systems Administrator,Active,,Standard,2021-07-19
+U010,Chris,Martinez,Information Technology,Systems Administrator,Active,,Privileged,2021-07-19
+U011,Alex,Jackson,Information Technology,Help Desk Analyst,Active,U009,Standard,2025-03-03
+U012,Mia,White,Information Security,Security Analyst,Active,,Standard,2024-10-07
+U013,Noah,Harris,Information Security,Security Administrator,Active,,Privileged,2022-05-23
+U014,Ava,Clark,Finance,Financial Analyst,Inactive,U003,Standard,2023-08-21
+U015,Liam,Lewis,Sales,Sales Representative,Terminated,U005,Standard,2024-01-15
