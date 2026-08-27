@@ -1,0 +1,31 @@
+assignment_id,user_id,resource,access_level,access_source,approved_by,granted_date,status
+A001,U001,HRIS,Manager,Role-Based,U001,2022-03-14,Active
+A002,U001,Microsoft 365,Standard,Role-Based,U001,2022-03-14,Active
+A003,U002,HRIS,Standard,Role-Based,U001,2024-06-10,Active
+A004,U002,Microsoft 365,Standard,Role-Based,U001,2024-06-10,Active
+A005,U003,Finance System,Manager,Role-Based,U003,2021-11-08,Active
+A006,U003,Microsoft 365,Standard,Role-Based,U003,2021-11-08,Active
+A007,U004,Finance System,Standard,Role-Based,U003,2025-01-20,Active
+A008,U004,Microsoft 365,Standard,Role-Based,U003,2025-01-20,Active
+A009,U005,CRM,Manager,Role-Based,U005,2023-04-17,Active
+A010,U005,Microsoft 365,Standard,Role-Based,U005,2023-04-17,Active
+A011,U006,CRM,Standard,Role-Based,U005,2025-08-11,Active
+A012,U006,Microsoft 365,Standard,Role-Based,U005,2025-08-11,Active
+A013,U007,Operations System,Manager,Role-Based,U007,2022-09-05,Active
+A014,U007,Microsoft 365,Standard,Role-Based,U007,2022-09-05,Active
+A015,U008,Operations System,Standard,Role-Based,U007,2024-02-12,Active
+A016,U008,Microsoft 365,Standard,Role-Based,U007,2024-02-12,Active
+A017,U009,Microsoft 365,Standard,Role-Based,U009,2021-07-19,Active
+A018,U010,Active Directory,Privileged,Privileged-Account,U009,2021-07-19,Active
+A019,U010,Server Administration,Privileged,Privileged-Account,U009,2021-07-19,Active
+A020,U011,Ticketing System,Standard,Role-Based,U009,2025-03-03,Active
+A021,U011,Active Directory,Help-Desk,Role-Based,U009,2025-03-03,Active
+A022,U012,Security Monitoring,Analyst,Role-Based,U013,2024-10-07,Active
+A023,U012,Incident Management,Analyst,Role-Based,U013,2024-10-07,Active
+A024,U013,Security Monitoring,Administrator,Privileged-Account,U013,2022-05-23,Active
+A025,U014,Finance System,Standard,Role-Based,U003,2023-08-21,Active
+A026,U015,CRM,Standard,Role-Based,U005,2024-01-15,Active
+A027,U002,Finance System,Standard,Direct,U003,2025-02-10,Active
+A028,U011,Active Directory,Privileged,Direct,U009,2026-01-12,Active
+A029,U004,Security Monitoring,Analyst,Direct,U013,2026-03-05,Active
+A030,U006,CRM,Manager,Direct,U005,2026-04-20,Active
